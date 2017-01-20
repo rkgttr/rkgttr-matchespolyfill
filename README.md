@@ -22,7 +22,7 @@ $ yarn add rkgttr-matchespolyfill --dev
 ### Getting Started
 
 ```js
-import matchesPolyfill from 'rkgttr-matchespolyfill';
+import 'rkgttr-matchespolyfill';
 ```
 
 or
