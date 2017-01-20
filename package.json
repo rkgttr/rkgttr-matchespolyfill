@@ -7,7 +7,7 @@
   "author": "Erik Guittiere",
   "license": "MIT",
   "keywords": [
-    "Element.matches"
+    "Element.matches",
     "polyfill"
   ],
   "main": "index.js",
